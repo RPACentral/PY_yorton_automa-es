@@ -1,8 +1,6 @@
 
 # README para automações em Python
 
-Este README fornece uma visão geral das automações que eu desenvolvi para a minha empresa, operações de importação e exportação de dados. Os scripts interagem com um banco de dados Oracle e manipulam arquivos Excel e CSV, além de utilizar APIs.
-
 ## Descrição
 
 As automações que começam com "PY_", são automações implementadas no Jenkins, programadas para acontecerem de forma 100% automática. 
